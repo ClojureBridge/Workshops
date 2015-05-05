@@ -96,5 +96,5 @@ GitHub username of organizer or ClojureBridge chapter *(optional)*
 For each sponsor, include:
 
 - Name
-- URLs *(optional)*
+- URL *(optional)*
 - preferred logo *(optional, prefer PNG or vector format)*
