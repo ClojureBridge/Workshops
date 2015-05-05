@@ -1,7 +1,8 @@
 # Workshops
 
-This is the repository of ClojureBridge workshops. Please use GitHub
-Issues to request website updates for upcoming workshops.
+This is the repository of ClojureBridge workshops. Please [use GitHub
+Issues](#workshop-event-listing) to request website updates for upcoming
+workshops.
 
 For a list of past and upcoming workshops, see [Events](events.md).
 
