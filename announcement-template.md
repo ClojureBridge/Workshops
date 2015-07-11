@@ -14,14 +14,15 @@
 
 ### Organizer details
 
-**Email address:**
+**Name**
 
-**Twitter:**
-
-**GitHub:**
+* **Email address:**
+* **Twitter:**
+* **GitHub:**
 
 ### Sponsors (optional)
 
 **Name:**
-**URL:**
-**Logo:**
+
+* **URL:**
+* **Logo:**
