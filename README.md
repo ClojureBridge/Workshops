@@ -8,7 +8,7 @@ Every workshop should have a mentor from one of current (or past) board members.
 Even though, you have an experience of organizing ClojureBridge in the past,
 you should contact to the mentor. This is because things are often updated.
 
-When your workshop is ready to annouce at [clojurebirge.org](clojurebridge.org), add an announcement
+When your workshop is ready to annouce at [clojurebirge.org](http://clojurebridge.org), add an announcement
 to your workshop issue. The announcement template is below: [Workshop Event Listing]
 (#workshop-event-listing). Based on the information in the template, one of the board
 member will create a website. (What they do is copy&pasting markdown annotated texts
