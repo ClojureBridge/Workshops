@@ -1,10 +1,25 @@
 # Workshops
 
-This is the repository of ClojureBridge workshops. Please [use GitHub
-Issues](#workshop-event-listing) to request website updates for upcoming
-workshops.
+This is the repository of ClojureBridge workshops. Please file an issue to
+get started. Board members are watching this repository. If an organizer neeeds
+a help, add a comment to the issue.
+
+Every workshop should have a mentor from one of current (or past) board members.
+Even though, you have an experience of organizing ClojureBridge in the past,
+you should contact to the mentor. This is because things are often updated.
+
+When your workshop is ready to annouce at <clojurebirge.org>, add an announcement
+to your workshop issue. The announcement template is below: [Workshop Event Listing]
+(#workshop-event-listing). Based on the information in the template, one of the board
+member will create a website. (What they do is copy&pasting markdown annotated texts
+to Rails admin console. Markdown rendering would be 'best effort,' not perfect,
+unfortunately.)
 
 For a list of past and upcoming workshops, see [Events](events.md).
+
+## Reading list prior to the annoucement
+
+- [Guidance To Men's Attendance](https://github.com/ClojureBridge/organizing/blob/master/Guidance-to-Mens-Attendance.md)
 
 ## Workshop Event Listing
 
@@ -36,9 +51,7 @@ example:
 
 > *If you are focusing on a particular constituency, include text like the
 > following: "This workshop is intended to reach out to women who are new
-> to Clojure. To register, you must identify as a woman. Men, you are
-> welcome to come if you find a woman who wants to learn Clojure who will
-> register and bring you as a guest."*
+> to Clojure. To register, you must identify as a woman."*
 >
 > In this workshop, we'll {INSERT CONTENT HERE}. We'll meet up Friday
 > night to install all of the software you need, and then spend workshop
@@ -88,7 +101,9 @@ organizers to use EventBrite.
 Email address of organizer. This email should be associated with a
 [Gravatar](https://gravatar.com/) and will be visible on the
 ClojureBridge website. The Gravatar should preferably be a photo clearly
-showing the host's friendly face.
+showing the host's friendly face. (The email address won't show up on the
+website, but used as a kind of id in database. Also, it is used to send
+out messages to past oranizers.)
 
 Twitter handle for organizer or event *(optional)*
 
