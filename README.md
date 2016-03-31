@@ -9,8 +9,11 @@ Even though, you have an experience of organizing ClojureBridge in the past,
 you should contact to the mentor. This is because things are often updated.
 
 When your workshop is ready to annouce at [clojurebirge.org](http://clojurebridge.org), add an announcement
-to your workshop issue. The announcement template is below: [Workshop Event Listing]
-(#workshop-event-listing). Based on the information in the template, one of the board
+to your workshop issue. The announcement template is in this repository
+[announcement-template.md](https://github.com/ClojureBridge/Workshops/blob/master/announcement-template.md).
+To fill out the template see: [Workshop Event Listing Guide](#workshop-event-listing-guide).
+
+Based on the information provided in the issue, one of the board
 member will create a website. (What they do is copy&pasting markdown annotated texts
 to Rails admin console. Markdown rendering would be 'best effort,' not perfect,
 unfortunately.)
@@ -21,7 +24,7 @@ For a list of past and upcoming workshops, see [Events](events.md).
 
 - [Guidance To Men's Attendance](https://github.com/ClojureBridge/organizing/blob/master/Guidance-to-Mens-Attendance.md)
 
-## Workshop Event Listing
+## Workshop Event Listing Guide
 
 Copy and paste the [Announcement Template](announcement-template.md)
 into a GitHub issue with your event title as the title. More explanation
