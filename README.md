@@ -18,7 +18,7 @@ member will create a website. (What they do is copy&pasting markdown annotated t
 to Rails admin console. Markdown rendering would be 'best effort,' not perfect,
 unfortunately.)
 
-For a list of past and upcoming workshops, see [Events](events.md).
+For a list of past and upcoming workshops, see [Workshops](http://clojurebridge.github.io/community-docs/workshops.html).
 
 ## Reading list prior to the annoucement
 
