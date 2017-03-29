@@ -1,17 +1,16 @@
 # Workshops
 
 This is the repository of ClojureBridge workshops. Please file an issue to
-get started. Board members are watching this repository. If an organizer neeeds
+get started. Board members are watching this repository. If an organizer needs
 a help, add a comment to the issue.
 
 Every workshop should have a mentor from one of current (or past) board members.
 Even though, you have an experience of organizing ClojureBridge in the past,
 you should contact to the mentor. This is because things are often updated.
 
-When your workshop is ready to annouce at [clojurebirge.org](http://clojurebridge.org), add an announcement
-to your workshop issue. The announcement template is in this repository
-[announcement-template.md](https://github.com/ClojureBridge/Workshops/blob/master/announcement-template.md).
-To fill out the template see: [Workshop Event Listing Guide](#workshop-event-listing-guide).
+When your workshop is ready to announce at [clojurebridge.org](http://clojurebridge.org),
+[open an issue](https://github.com/ClojureBridge/Workshops/issues/new).
+See [Workshop Event Listing Guide](#workshop-event-listing-guide) for details.
 
 Based on the information provided in the issue, one of the board
 member will create a website. (What they do is copy&pasting markdown annotated texts
@@ -20,15 +19,14 @@ unfortunately.)
 
 For a list of past and upcoming workshops, see [Workshops](http://clojurebridge.github.io/community-docs/workshops.html).
 
-## Reading list prior to the annoucement
+## Reading list prior to the announcement
 
 - [Guidance To Men's Attendance](https://github.com/ClojureBridge/organizing/blob/master/Guidance-to-Mens-Attendance.md)
 
 ## Workshop Event Listing Guide
 
-Copy and paste the [Announcement Template](announcement-template.md)
-into a GitHub issue with your event title as the title. More explanation
-for each of the template elements is below.
+[Open an issue](https://github.com/ClojureBridge/Workshops/issues/new) for
+your workshop. More explanation for each of the template elements is below.
 
 ---
 
@@ -106,7 +104,7 @@ Email address of organizer. This email should be associated with a
 ClojureBridge website. The Gravatar should preferably be a photo clearly
 showing the host's friendly face. (The email address won't show up on the
 website, but used as a kind of id in database. Also, it is used to send
-out messages to past oranizers.)
+out messages to past organizers.)
 
 Twitter handle for organizer or event *(optional)*
 
