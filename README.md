@@ -2,20 +2,23 @@
 
 This is the repository of ClojureBridge workshops. Please file an issue to
 get started. Board members are watching this repository. If an organizer needs
-a help, add a comment to the issue.
+help, add a comment to the issue.
 
 Every workshop should have a mentor from one of current (or past) board members.
-Even though, you have an experience of organizing ClojureBridge in the past,
-you should contact to the mentor. This is because things are often updated.
+Even if you have experience organizing a ClojureBridge workshop in the past, you 
+should contact your mentor. This is because things are often updated.
 
 When your workshop is ready to announce at [clojurebridge.org](http://clojurebridge.org),
 [open an issue](https://github.com/ClojureBridge/Workshops/issues/new).
-See [Workshop Event Listing Guide](#workshop-event-listing-guide) for details.
+See [Workshop Event Listing Guide](#workshop-event-listing-guide) for details. 
 
 Based on the information provided in the issue, one of the board
 member will create a website. (What they do is copy&pasting markdown annotated texts
 to Rails admin console. Markdown rendering would be 'best effort,' not perfect,
 unfortunately.)
+
+The organizing [Cookbook](https://github.com/ClojureBridge/organizing/blob/master/README.md) 
+has the information you need to successfully organize a workshop
 
 For a list of past and upcoming workshops, see [Workshops](http://clojurebridge.github.io/community-docs/workshops.html).
 
