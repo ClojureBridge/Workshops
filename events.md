@@ -1,7 +1,12 @@
-**#16: ClojureBridge Workshop for Women**
+**#17: ClojureBridge Workshop for Women**
 
 * Berlin
 * July 10, 2015
+
+**#16: ClojureBridge Workshop for Women**
+
+* Minneapolis
+* June 26, 2015
 
 **#15: Solingen ClojureBridge Workshop**
 
