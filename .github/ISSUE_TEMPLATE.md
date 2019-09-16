@@ -1,3 +1,12 @@
+---
+name: New Workshop Announcement
+about: Template for submitting a new workshop announcement
+title: New ClojureBridge in {LOCATION} on {DATE}
+labels: ''
+assignees: '@ClojureBridge/Board'
+
+---
+
 ### Event title
 
 ### Location
