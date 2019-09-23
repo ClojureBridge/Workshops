@@ -6,10 +6,10 @@ This is the home base of ClojureBridge workshops.
 
 ## Contents
 
-### [Getting Started](#getting-started)
-### [Guide to listing your event](./docs/workshop-listing-guide.md)
-### [Helpful Resources](#helpful-resources)
-### [Contributing](For Board Members)
+### [:rocket: Getting Started](#getting-started)
+### [:memo: Guide to listing your event](./docs/workshop-listing-guide.md)
+### [:books: Helpful Resources](#helpful-resources)
+### [:woman_technologist: Contributing](./docs/contributing.md)
 
 ## :rocket: Getting Started
 
@@ -36,3 +36,12 @@ has the information you need to successfully organize a workshop
 For a list of past and upcoming workshops, see [Workshops](http://clojurebridge.github.io/community-docs/workshops.html).
 
 Read the [Guidance To Men's Attendance](https://github.com/ClojureBridge/organizing/blob/master/Guidance-to-Mens-Attendance.md)
+
+## Contributing (For Board Members)
+
+Note: this section is primarily intended for the @ClojureBridge/Board members, who maintain this repository.
+
+1. When a new ticket is opened:
+1. Assign a member
+1. How to get an event on the website
+1. Collecting feedback
