@@ -6,10 +6,12 @@ This is the home base of ClojureBridge workshops.
 
 ## Contents
 
-### [:rocket: Getting Started](#getting-started)
+### [:rocket: Getting Started](#rocket-getting-started)
 ### [:memo: Guide to listing your event](./docs/workshop-listing-guide.md)
-### [:books: Helpful Resources](#helpful-resources)
-### [:woman_technologist: Contributing](./docs/contributing.md)
+### [:books: Helpful Resources](#books-helpful-resources)
+### [:woman_technologist: Contributing](#woman-technologist-contributing)
+
+---
 
 ## :rocket: Getting Started
 
@@ -37,11 +39,20 @@ For a list of past and upcoming workshops, see [Workshops](http://clojurebridge.
 
 Read the [Guidance To Men's Attendance](https://github.com/ClojureBridge/organizing/blob/master/Guidance-to-Mens-Attendance.md)
 
-## Contributing (For Board Members)
+## :woman_technologist: Contributing
 
-Note: this section is primarily intended for the @ClojureBridge/Board members, who maintain this repository.
+Note: this section is primarily intended **for the @ClojureBridge/Board members**, who maintain this repository.
 
-1. When a new ticket is opened:
-1. Assign a member
-1. How to get an event on the website
-1. Collecting feedback
+When a new ticket is opened:
+1. Assign a member of @ClojureBridge/Board to mentor this workshop
+1. The mentor should assign themselves the ticket, and post a quick introduction. Something like:
+
+> Hi, I'm _____ and I will be your point of contact for this event! Please don't hesitate to reach out by commenting on this issue, or via email (info@clojurebridge.org) with any questions!
+> Some helpful resources for you to check out are at [resource library](#books-resources).
+
+1. If the event issue template was filled out fully, confirm they're ready for publishing the event on the website:
+
+> Please comment to let us know once the event is ready for publishing on the website.
+
+1. Once it's ready to go on the website, follow the instructions at [ClojureBridge/website](https://github.com/ClojureBridge/clojurebridge.github.io/) to publish the event to the website
+1. Check in with the organizers after the event to collect feedback on their workshop and our process.
