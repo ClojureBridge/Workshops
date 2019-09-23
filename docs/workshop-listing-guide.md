@@ -4,8 +4,7 @@ Everything you need to know about registering your event on https://clojurebridg
 
 ## Workshop Event Listing Guide
 
-[Open an issue](https://github.com/ClojureBridge/Workshops/issues/new) for
-your workshop. More explanation for each of the template elements is below.
+[Open an issue](https://github.com/ClojureBridge/Workshops/issues/new/choose) for your workshop. More explanation for each of the template elements is below.
 
 ---
 

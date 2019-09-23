@@ -48,7 +48,7 @@ When a new ticket is opened:
 2. The mentor should assign themselves the ticket, and post a quick introduction. Something like:
 
 > Hi, I'm _____ and I will be your point of contact for this event! Please don't hesitate to reach out by commenting on this issue, or via email (info@clojurebridge.org) with any questions!
-> Some helpful resources for you to check out are at [resource library](#books-resources).
+> Some helpful resources for you to check out are at [resource library](#books-helpful-resources).
 
 3. If the event issue template was filled out fully, confirm they're ready for publishing the event on the website:
 
