@@ -1,10 +1,10 @@
-# Workshop Event Listing Guide
+# Guide to Listing Your Event on the ClojureBridge Website
 
-Everything you need to know about registering your event on https://clojurebridge.org
+Everything you need to know about registering your event on https://clojurebridge.org .
 
-## Workshop Event Listing Guide
+To register your event, you need to [open an issue](https://github.com/ClojureBridge/Workshops/issues/new/choose) for your workshop, and fill out the issue template.
 
-[Open an issue](https://github.com/ClojureBridge/Workshops/issues/new/choose) for your workshop. More explanation for each of the template elements is below.
+This guide walks you through each of the fields in the template.
 
 ---
 

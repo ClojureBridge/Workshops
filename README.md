@@ -7,7 +7,7 @@ This is the home base of ClojureBridge workshops.
 ## Contents
 
 ### [:rocket: Getting Started](#rocket-getting-started)
-### [:memo: Guide to listing your event](./docs/workshop-listing-guide.md)
+### [:memo: Guide to Listing Your Event on the Website](./docs/workshop-listing-guide.md)
 ### [:books: Helpful Resources](#books-helpful-resources)
 ### [:woman_technologist: Contributing](#woman_technologist-contributing)
 
@@ -24,11 +24,11 @@ This person will help walk you through the process of organising your workshop a
 your point of contact for any questions.
 
 When your workshop is ready to announce at [clojurebridge.org](http://clojurebridge.org),
-[open an issue](https://github.com/ClojureBridge/Workshops/issues/new).
+[open an issue](https://github.com/ClojureBridge/Workshops/issues/new/choose).
 See [Workshop Event Listing Guide](#workshop-event-listing-guide) for details.
 
-Based on the information provided in the issue, one of the board
-member will create a website.
+Based on the information provided in the issue, one of the board member will create a
+listing for your workshop on the website.
 
 ## :books: Helpful Resources
 
