@@ -1,6 +1,6 @@
 # Guide to Listing Your Event on the ClojureBridge Website
 
-Everything you need to know about registering your event on https://clojurebridge.org .
+Everything you need to know about registering your event on [the ClojureBridge website](https://clojurebridge.org).
 
 To register your event, you need to [open an issue](https://github.com/ClojureBridge/Workshops/issues/new/choose) for your workshop, and fill out the issue template.
 
@@ -28,7 +28,7 @@ A paragraph or two on the event. Include information on who can register
 for the workshop. (e.g. "Men may attend as a woman's guest.") For
 example:
 
-> *If you are focusing on a particular constituency, include text like the
+> *If you are focusing on a particular demographic, include text like the
 > following: "This workshop is intended to reach out to women who are new
 > to Clojure. To register, you must identify as a woman."*
 >
